@@ -1,0 +1,2 @@
+prod000008	75	pencil
+001	14	Shoes
